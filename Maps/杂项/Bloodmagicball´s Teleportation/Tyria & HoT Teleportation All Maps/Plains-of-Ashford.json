@@ -1,0 +1,23 @@
+{
+  "Name": "Plains-of-Ashford",
+  "Coordinates": [
+    {
+      "Name": "阿什福德平原-to-IronMarches",
+      "X": 807.33,
+      "Y": 713.62,
+      "Z": 47.92
+    },
+    {
+      "Name": "阿什福德平原-to-BlackCitadel",
+      "X": -1400.3,
+      "Y": 132.03,
+      "Z": 81.9
+    },
+    {
+      "Name": "阿什福德平原-to-Diessa",
+      "X": -315.02,
+      "Y": 698.28,
+      "Z": 80.77
+    }
+  ]
+}
