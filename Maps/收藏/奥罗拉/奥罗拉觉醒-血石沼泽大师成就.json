@@ -1,752 +1,752 @@
 {
-  "Name": "Aurora Awakening Bloodstone Fen  Master  Achievements",
+  "Name": "奥罗拉觉醒-血石沼泽大师成就",
   "Coordinates": [
     {
-      "Name": "Bloodstone-Crystal-for-[Bloodstone-Chip-Item]",
+      "Name": "血石水晶-[用于收藏:血石碎屑]",
       "X": -248.965,
       "Y": 166.832,
       "Z": 857.854
     },
     {
-      "Name": "Bloodstone-Crystal-for-[Bloodstone-Chip-Item]",
+      "Name": "血石水晶-[用于收藏:血石碎屑]",
       "X": -290.436,
       "Y": 94.5297,
       "Z": 833.686
     },
     {
-      "Name": "Bloodstone-Crystal-for-[Bloodstone-Chip-Item]",
+      "Name": "血石水晶-[用于收藏:血石碎屑]",
       "X": 104.18,
       "Y": 143.206,
       "Z": 847.509
     },
     {
-      "Name": "Bloodstone-Crystal-for-[Bloodstone-Chip-Item]",
+      "Name": "血石水晶-[用于收藏:血石碎屑]",
       "X": 279.676,
       "Y": 191.828,
       "Z": 1009.46
     },
     {
-      "Name": "Bloodstone-Crystal-for-[Bloodstone-Chip-Item]",
+      "Name": "血石水晶-[用于收藏:血石碎屑]",
       "X": 319.249,
       "Y": 122.949,
       "Z": 1006.58
     },
     {
-      "Name": "Bloodstone-Crystal-for-[Bloodstone-Chip-Item]",
+      "Name": "血石水晶-[用于收藏:血石碎屑]",
       "X": 102.808,
       "Y": -12.0852,
       "Z": 909.622
     },
     {
-      "Name": "[Hablions-Dignity]&[Reversal-of-Fortune]&[This-Time,-Stay-Dead]-INFO-for-Reversal-Achievment-you-must-attack-her-while-gliding-after-she-ported-you-in-mid-air-Kill-Justiziar-Hablion-if-not-spawned-just-do-the-other-steps-first-and-come-back-later",
+      "Name": "[收藏:哈布里恩的尊严]&[成就:时来运转]&[成就:这次死透了]-信息：要获得\"时来运转\"成就，你必须在她将你传送到半空中后，在滑翔时攻击她。击杀审判官哈布里恩。如果她没有刷新，就先做其他的，稍后再回来。",
       "X": -58.5739,
       "Y": -73.7113,
       "Z": 874.236
     },
     {
-      "Name": "[White-Mantle-Crest]-Kill-White-Mantle-below-to-get",
+      "Name": "[收藏:白斗篷纹章]-击杀下方的白斗篷获得",
       "X": 11.9142,
       "Y": -99.9435,
       "Z": 676.629
     },
     {
-      "Name": "[White-Mantle-Crest]-Kill-White-Mantle-To-get",
+      "Name": "[收藏:白斗篷纹章]-击杀白斗篷获得",
       "X": -163.654,
       "Y": -58.3943,
       "Z": 624.511
     },
     {
-      "Name": "[Jade-Core-]Kill-Jade-Costructs-only-during-Meta",
+      "Name": "[收藏:翠玉核心]-仅在大型事件期间击杀翠玉构造体",
       "X": 270.358,
       "Y": 136.395,
       "Z": 569.617
     },
     {
-      "Name": "[Jade-Core-]Kill-Jade-Constructs-only-during-meta",
+      "Name": "[收藏:翠玉核心]-仅在大型事件期间击杀翠玉构造体",
       "X": 85.7422,
       "Y": -40.2257,
       "Z": 480.53
     },
     {
-      "Name": "[Jade-Core-]Kill-Jade-COnstructs-only-during-meta",
+      "Name": "[收藏:翠玉核心]-仅在大型事件期间击杀翠玉构造体",
       "X": 244.587,
       "Y": 33.0059,
       "Z": 379.718
     },
     {
-      "Name": "[Jade-Core-]Kill-Jade-Constructs-only-during-Meta",
+      "Name": "[收藏:翠玉核心]-仅在大型事件期间击杀翠玉构造体",
       "X": 19.0799,
       "Y": 156.101,
       "Z": 327.744
     },
     {
-      "Name": "[Shattered-Guardian-Binding]&Achievment-[Available-Guardian-INFO-for-achievment-just-kill-the-Guardian-to-get-the-Achievment]-After-The-Meta-The-Unbound-Guardian-will-spawn-here-kill-him-to-get-item",
+      "Name": "[收藏:碎裂的守护者束缚带]&[成就:可用的守护者]-信息：要获得成就，只需击杀守护者即可。大型事件结束后，无缚守护者会在这里刷新，击杀他以获得物品。",
       "X": -312.665,
       "Y": -77.5822,
       "Z": 52.6171
     },
     {
-      "Name": "[Rift-Residue]-Kill-the-enemys-in-the-rift-event",
+      "Name": "[收藏:裂隙残骸]-击杀裂隙事件中的敌人",
       "X": 88.0688,
       "Y": 154.411,
       "Z": 841.269
     },
     {
-      "Name": "[Rift-Residue]-Kill-the-rift-enemys",
+      "Name": "[收藏:裂隙残骸]-击杀裂隙敌人",
       "X": 373.145,
       "Y": 205.922,
       "Z": 756.076
     },
     {
-      "Name": "[Rift-Residue]-Kill-Rift-enemys",
+      "Name": "[收藏:裂隙残骸]-击杀裂隙敌人",
       "X": 223.502,
       "Y": 12.6581,
       "Z": 972.789
     },
     {
-      "Name": "[Living-Bloodstone]-Kill-Bloodstone-Elementals",
+      "Name": "[收藏:鲜活血石]-击杀血石元素",
       "X": 85.0978,
       "Y": 81.6162,
       "Z": 762.173
     },
     {
-      "Name": "[Living-Bloodstone]-Kill-Bloodstone-Elemental",
+      "Name": "[收藏:鲜活血石]-击杀血石元素",
       "X": 141.55,
       "Y": 199.979,
       "Z": 847.94
     },
     {
-      "Name": "[Living-Bloodstone]-Kill-BLoodstone-Elementals",
+      "Name": "[收藏:鲜活血石]-击杀血石元素",
       "X": 68.6042,
       "Y": 184.433,
       "Z": 828.349
     },
     {
-      "Name": "[Living-Bloodstone]-Kill-Elementals",
+      "Name": "[收藏:鲜活血石]-击杀血石元素",
       "X": -50.8188,
       "Y": 161.208,
       "Z": 832.645
     },
     {
-      "Name": "[Living-Bloodstone]-Kill-Elementals",
+      "Name": "[收藏:鲜活血石]-击杀血石元素",
       "X": -106.899,
       "Y": 182.945,
       "Z": 885.616
     },
     {
-      "Name": "[Pristine-Blood-Ruby]-Buy-that-item-from-Natto-Price=-50-Rubis-&-5000-Magic",
+      "Name": "[收藏:质朴血色红宝石]-从纳托处购买，价格：50血色红宝石和5000未受约束的魔法",
       "X": -297.458,
       "Y": 87.9777,
       "Z": 947.355
     },
     {
-      "Name": "For-the-next-coord-you-will-do-the-Gliding-Part-beaware-to-open-up-the-Glider-by-porting-to-next-coords-you-ware-be-warned",
+      "Name": "接下来的坐标是滑翔部分，请注意，传送到下一个坐标点后立即打开滑翔翼，请注意。",
       "X": -198.395,
       "Y": 169.343,
       "Z": 942.459
     },
     {
-      "Name": "[Aerial-Assault]-Kill-with-glider-mob-belowe",
+      "Name": "[收藏:空中袭击]-使用滑翔翼击杀下方的怪物",
       "X": -54.0555,
       "Y": 126.667,
       "Z": 881.085
     },
     {
-      "Name": "[Aerial-Assault]-Kill-mobs-with-glider-below",
+      "Name": "[收藏:空中袭击]-使用滑翔翼击杀下方的怪物",
       "X": 98.625,
       "Y": 161.856,
       "Z": 921.367
     },
     {
-      "Name": "[Aerial-Assault]-Kill-with-glider",
+      "Name": "[收藏:空中袭击]-使用滑翔翼击杀",
       "X": 212.086,
       "Y": 216.046,
       "Z": 858.954
     },
     {
-      "Name": "[Aerial-Assault]-Kill-all-mobs-belowe-last-spot-with-gliding",
+      "Name": "[收藏:空中袭击]-这是最后一个滑翔击杀点，击杀下方所有怪物",
       "X": 418.914,
       "Y": 112.364,
       "Z": 863.99
     },
     {
-      "Name": "[Magic-Unbound:-The-Gathering]INFO-for-The-Gathering-you-must-collect-10-units-in-60-seconds-to-get-the-achievment-Info-next-30-coords-are-for-the-unbound-Magic-item-once-you-are-in-midair-open-glider-and-thenport-all-coords-until-you-got-the-item",
+      "Name": "[成就:未受约束的魔法：收集]信息：要获得\"收集\"成就，你必须在60秒内收集10个单位。接下来的30个坐标是未受约束的魔法物品的坐标，一旦你在半空中，打开滑翔翼，然后传送所有坐标，直到你获得物品。",
       "X": -245.209,
       "Y": 132.237,
       "Z": 941.016
     },
     {
-      "Name": "[Strange-Residue]&[Magic-Unbound:-The-Gathering]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]&[成就:未受约束的魔法：收集]-如果你已经获得了就跳过",
       "X": -159.32,
       "Y": 188.357,
       "Z": 923.158
     },
     {
-      "Name": "[Strange-Residue]&[Magic-Unbound:-The-Gathering]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]&[成就:未受约束的魔法：收集]-如果你已经获得了就跳过",
       "X": -133.019,
       "Y": 178.076,
       "Z": 907.799
     },
     {
-      "Name": "[Strange-Residue]&[Magic-Unbound:-The-Gathering]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]&[成就:未受约束的魔法：收集]-如果你已经获得了就跳过",
       "X": -107.731,
       "Y": 157.421,
       "Z": 892.439
     },
     {
-      "Name": "[Strange-Residue]&[Magic-Unbound:-The-Gathering]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]&[成就:未受约束的魔法：收集]-如果你已经获得了就跳过",
       "X": -82.3054,
       "Y": 160.384,
       "Z": 874.522
     },
     {
-      "Name": "[Strange-Residue]&[Magic-Unbound:-The-Gathering]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]&[成就:未受约束的魔法：收集]-如果你已经获得了就跳过",
       "X": -69.2154,
       "Y": 169.664,
       "Z": 863.003
     },
     {
-      "Name": "[Strange-Residue]&[Magic-Unbound:-The-Gathering]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]&[成就:未受约束的魔法：收集]-如果你已经获得了就跳过",
       "X": -62.7567,
       "Y": 172.562,
       "Z": 833.563
     },
     {
-      "Name": "[Strange-Residue]&[Magic-Unbound:-The-Gathering]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]&[成就:未受约束的魔法：收集]-如果你已经获得了就跳过",
       "X": -63.5291,
       "Y": 172.919,
       "Z": 814.363
     },
     {
-      "Name": "[Strange-Residue]&[Magic-Unbound:-The-Gathering]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]&[成就:未受约束的魔法：收集]-如果你已经获得了就跳过",
       "X": -44.7522,
       "Y": 173.166,
       "Z": 801.563
     },
     {
-      "Name": "[Strange-Residue]&[Magic-Unbound:-The-Gathering]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]&[成就:未受约束的魔法：收集]-如果你已经获得了就跳过",
       "X": -22.5459,
       "Y": 173.713,
       "Z": 795.163
     },
     {
-      "Name": "[Strange-Residue]&[Magic-Unbound:-The-Gathering]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]&[成就:未受约束的魔法：收集]-如果你已经获得了就跳过",
       "X": 1.56829,
       "Y": 150.455,
       "Z": 788.763
     },
     {
-      "Name": "[Strange-Residue]&[Magic-Unbound:-The-Gathering]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]&[成就:未受约束的魔法：收集]-如果你已经获得了就跳过",
       "X": 0.986944,
       "Y": 117.902,
       "Z": 782.363
     },
     {
-      "Name": "[Strange-Residue]&[Magic-Unbound:-The-Gathering]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]&[成就:未受约束的魔法：收集]-如果你已经获得了就跳过",
       "X": -33.1697,
       "Y": 91.4273,
       "Z": 770.843
     },
     {
-      "Name": "[Strange-Residue]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]-如果你已经获得了就跳过",
       "X": 5.09973,
       "Y": 98.4688,
       "Z": 760.603
     },
     {
-      "Name": "[Strange-Residue]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]-如果你已经获得了就跳过",
       "X": -17.4696,
       "Y": 83.384,
       "Z": 750.362
     },
     {
-      "Name": "[Strange-Residue]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]-如果你已经获得了就跳过",
       "X": -1.50475,
       "Y": 89.8215,
       "Z": 727.323
     },
     {
-      "Name": "[Strange-Residue]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]-如果你已经获得了就跳过",
       "X": -12.4764,
       "Y": -6.6804,
       "Z": 956.794
     },
     {
-      "Name": "[Strange-Residue]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]-如果你已经获得了就跳过",
       "X": -11.0794,
       "Y": -0.144433,
       "Z": 946.554
     },
     {
-      "Name": "[Strange-Residue]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]-如果你已经获得了就跳过",
       "X": 7.74139,
       "Y": 4.42342,
       "Z": 941.434
     },
     {
-      "Name": "[Strange-Residue]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]-如果你已经获得了就跳过",
       "X": 21.8317,
       "Y": 4.51448,
       "Z": 935.034
     },
     {
-      "Name": "[Strange-Residue]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]-如果你已经获得了就跳过",
       "X": 23.8965,
       "Y": -7.70179,
       "Z": 923.517
     },
     {
-      "Name": "[Strange-Residue]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]-如果你已经获得了就跳过",
       "X": 14.2441,
       "Y": -17.9177,
       "Z": 909.44
     },
     {
-      "Name": "[Strange-Residue]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]-如果你已经获得了就跳过",
       "X": 14.8616,
       "Y": -30.136,
       "Z": 895.361
     },
     {
-      "Name": "[Strange-Residue]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]-如果你已经获得了就跳过",
       "X": 13.7344,
       "Y": -32.639,
       "Z": 881.281
     },
     {
-      "Name": "[Strange-Residue]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]-如果你已经获得了就跳过",
       "X": -2.37018,
       "Y": -34.9909,
       "Z": 873.601
     },
     {
-      "Name": "[Strange-Residue]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]-如果你已经获得了就跳过",
       "X": 65.19,
       "Y": -13.0305,
       "Z": 890.289
     },
     {
-      "Name": "[Strange-Residue]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]-如果你已经获得了就跳过",
       "X": 65.7099,
       "Y": -13.608,
       "Z": 882.609
     },
     {
-      "Name": "[Strange-Residue]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]-如果你已经获得了就跳过",
       "X": 71.361,
       "Y": 23.3191,
       "Z": 865.97
     },
     {
-      "Name": "[Strange-Residue]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]-如果你已经获得了就跳过",
       "X": 71.361,
       "Y": 23.3191,
       "Z": 865.97
     },
     {
-      "Name": "[Strange-Residue]-Skip-if-you-got-it",
+      "Name": "[收藏:怪异残骸]-如果你已经获得了就跳过",
       "X": 91.3273,
       "Y": 17.156,
       "Z": 845.491
     },
     {
-      "Name": "Last-Port-for-this-item-[Strange-Residue]-Skip-if-you-got-it",
+      "Name": "此物品的最后一个传送点-[收藏:怪异残骸]-如果你已经获得了就跳过",
       "X": 120.769,
       "Y": 16.8679,
       "Z": 851.926
     },
     {
-      "Name": "Achievment-[Bloodstone-Fen-Insight-Fragmented-Wastes]",
+      "Name": "成就-[血石沼泽洞悉：碎裂废墟]",
       "X": 329.354,
       "Y": 105.681,
       "Z": 1011.07
     },
     {
-      "Name": "Achievment-[Bloodstone-Fen-Insight-Temple-of-Renewal",
+      "Name": "成就-[血石沼泽洞悉：再生神殿]",
       "X": -399.266,
       "Y": -58.8849,
       "Z": 147.283
     },
     {
-      "Name": "Diving-Googles-[Achievment]-Before-you-jump-nextport-will-bring-you-over-the-place-you-have-to-land-only-port-to-next-coord-when-you-are-falling-otherwise-it-wont-work-good-luck",
+      "Name": "潜水护目镜-[成就]-在你跳下之前，下一个传送点会将你带到你必须降落的地方上空，只有在你下落时才能传送到下一个坐标，否则无效，祝你好运。",
       "X": 156.102,
       "Y": 103.806,
       "Z": 1038.17
     },
     {
-      "Name": "Port-here-and-they-see-you-flyiiiing-they-hattttinnnn-Achievment-done-btw",
+      "Name": "传送到这里，他们看到你在飞翔，他们会嫉妒的。顺便说一下，成就完成了。",
       "X": 125.844,
       "Y": 95.061,
       "Z": 385.042
     },
     {
-      "Name": "INFO-Next-Achievment-will-be-in-mid-air-with-glider-during-an-ley-line-use-glider-skill5-to-get-the-achievment-while-flying-through-an-ley-line",
+      "Name": "信息-下一个成就是在一个魔径上空滑翔时完成的，在飞越魔径时使用滑翔翼技能5来获得成就。",
       "X": 186.228,
       "Y": 16.7036,
       "Z": 611.937
     },
     {
-      "Name": "Here-we-go-for-the-achievment[Dont-Cross-the-Streams]",
+      "Name": "我们来完成成就[不要交叉光线]",
       "X": 163.16,
       "Y": 28.6005,
       "Z": 775.037
     },
     {
-      "Name": "[Achievment-Lost-Souls]-Pre-Event-to-get-started-only-at-nighttime",
+      "Name": "[成就:失落之魂]-前置事件，仅在夜间开始",
       "X": -299.887,
       "Y": 58.0002,
       "Z": 624.648
     },
     {
-      "Name": "[Savant-Ehrin]First-of-the-4-Ghost-will-spawn-here-kill-him-1/4-Killed-he-walks-around-when-no-one-is-attacking-so-he-might-can-be-around-and-not-on-this-.coord",
+      "Name": "[学者埃林]4个幽灵中的第一个会在这里刷新，击杀他(1/4)。当没有人攻击他时，他会四处走动，所以他可能在附近，而不是在这个坐标上。",
       "X": -247.404,
       "Y": 68.3006,
       "Z": 635.841
     },
     {
-      "Name": "[Nyle-the-Compassionate]-The-second-Champ-will-spawn-right-in-front-of-you-down-in-the-water-after-the-first-one-is-killed",
+      "Name": "[慈悲的奈勒]-第二个首领会在第一个被击杀后，在你正下方的水中刷新。",
       "X": -179.258,
       "Y": -34.4604,
       "Z": 643.06
     },
     {
-      "Name": "[Ritualist-Josa]-The-3-Champ-will-spawn-near-these-coord",
+      "Name": "[仪式师约萨]-第三个首领会在此坐标附近刷新。",
       "X": -288.37,
       "Y": -73.7095,
       "Z": 627.832
     },
     {
-      "Name": "[Thief-Lloyd]-The-Last-one-of-the-4-Champs-will-spawn-around-here",
+      "Name": "[盗贼劳埃德]-4个首领中的最后一个会在这里附近刷新。",
       "X": -153.873,
       "Y": 85.0835,
       "Z": 632.853
     },
     {
-      "Name": "Info-the-next-coords-will-be-story-missions-and-achievments-so-before-you-port-go-to-hoelbrak-then-in-the-next-port-you-will-get-instructions",
+      "Name": "信息-接下来的坐标是史诗纪实和成就，所以在传送之前，先去霍布雷克，然后在下一个传送点你会得到指示。",
       "X": -286.634,
       "Y": 176.891,
       "Z": 855.161
     },
     {
-      "Name": "INFO-For-the-next-part-were-going-into-the-story-missions-so-select-living-story3-Out-of-the-Shadows-Mission-and-do-it-with-a-character-who-allready-played-all-missions-so-you-have-the-achievments-unlocked-please-port-know-to-hoelbrak-before-you-using-the-next-coords-for-porting-thank-you-and-good-luck",
+      "Name": "信息-对于下一部分，我们将进入史诗纪实，所以请选择世界动态第3季\"阴影之外\"章节，并使用一个已经玩过所有任务的角色来做，这样你就解锁了成就。在使用下一个坐标传送之前，请先传送到霍布雷克，谢谢，祝你好运。",
       "X": -280.056,
       "Y": 103.21,
       "Z": 928.67
     },
     {
-      "Name": "[Eirs-Memorial-in-Hoelbrak]-Starting-the-first-mission-and-completing-it",
+      "Name": "[霍布雷克的伊尔纪念堂]-开始并完成第一个任务",
       "X": 591.358,
       "Y": -375.725,
       "Z": 391.561
     },
     {
-      "Name": "InFO-now-comes-the-second-Mission-for-that-we-are-going-to-Rata-Sum",
+      "Name": "信息-现在是第二个任务，为此我们去拉塔索姆",
       "X": 588.097,
       "Y": -374.064,
       "Z": 392.203
     },
     {
-      "Name": "[Research-in-Rata-Novus]-Talk-to-Golem-to-start-Mission-enter-instance-right-in-front-of-you-after-talking-to-golem",
+      "Name": "[拉塔诺瓦的研究]-与魔像交谈开始任务，与魔像交谈后进入你正前方的副本。",
       "X": 71.6048,
       "Y": 329.956,
       "Z": 470.805
     },
     {
-      "Name": "Fortheachievments-you-have-to-play-this-mission-2-times",
+      "Name": "为了成就，你必须玩这个任务两次",
       "X": 465.854,
       "Y": 354.319,
       "Z": 50.4071
     },
     {
-      "Name": "First-Achievment-will-be-[Aint-Got-Time-For-This]",
+      "Name": "第一个成就是[没时间搞这个]",
       "X": 466.659,
       "Y": 365.844,
       "Z": 48.9317
     },
     {
-      "Name": "Play-the-mission-until-youre-at-the-part-with-the-puzzle",
+      "Name": "继续任务，直到你到达解谜部分",
       "X": 467.632,
       "Y": 367.452,
       "Z": 48.9317
     },
     {
-      "Name": "Select-skip-the-puzzle-and-kill-golems-to-get-first-achievment",
+      "Name": "选择跳过谜题并击杀魔像以获得第一个成就",
       "X": 472.865,
       "Y": 370.852,
       "Z": 49.3498
     },
     {
-      "Name": "now-after-completing-the-first-achievment-you-can-go-out-of-mission-and-restart-themission-to-get-second-achievment",
+      "Name": "现在完成第一个成就后，你可以退出任务并重新开始任务以获得第二个成就",
       "X": 473.116,
       "Y": 371.638,
       "Z": 49.1696
     },
     {
-      "Name": "now-doing-[Was-it-Blue-or-Red-Achievment]-Complete-the-Puzzle-to-enter-the-lab",
+      "Name": "现在做[是蓝色还是红色？成就]-完成谜题进入实验室",
       "X": 467.383,
       "Y": 366.186,
       "Z": 48.9317
     },
     {
-      "Name": "once-you-are-at-the-part-with-the-puzzle-the-next-coords-will-tell-you-in-which-order-you-have-to-press-button",
+      "Name": "一旦你到了解谜部分，下一个坐标会告诉你按按钮的顺序",
       "X": 472.746,
       "Y": 370.678,
       "Z": 49.3588
     },
     {
-      "Name": "First-Phase=-Yellow/Purple/Red-or-123",
+      "Name": "第一阶段=黄色/紫色/红色 或 123",
       "X": 472.746,
       "Y": 370.678,
       "Z": 49.3588
     },
     {
-      "Name": "Second-Phase=Red/Yellow/Purple-or-312",
+      "Name": "第二阶段=红色/黄色/紫色 或 312",
       "X": 472.746,
       "Y": 370.678,
       "Z": 49.3588
     },
     {
-      "Name": "Phase3=Yellow/Red/Blue/Yellow/Red-1342",
+      "Name": "第三阶段=黄色/红色/蓝色/黄色",
       "X": 472.746,
       "Y": 370.678,
       "Z": 49.3588
     },
     {
-      "Name": "Phase4=Purple/Blue/Yellow/Red-2413",
+      "Name": "第四阶段=紫色/蓝色/黄色/红色",
       "X": 472.746,
       "Y": 370.678,
       "Z": 49.3588
     },
     {
-      "Name": "Phase5-Last-Phase=Green/Blue/Red/Purple/Yellow-54321",
+      "Name": "第五阶段-最后阶段=绿色/蓝色/红色/紫色/黄色 或 54321",
       "X": 472.746,
       "Y": 370.678,
       "Z": 49.3588
     },
     {
-      "Name": "Now-go-on-with-the-story-mission-and-complete-the-mission-to-get-achievment[Research-in-Rata-Novus]",
+      "Name": "现在继续史诗纪实并完成任务以获得成就[拉塔诺瓦的研究]",
       "X": 468.05,
       "Y": 352.843,
       "Z": 50.7177
     },
     {
-      "Name": "now-the-story-mission-[Blood-and-Stone]-will-started-get-ready",
+      "Name": "现在开始史诗纪实-[血石与岩石]，准备好",
       "X": -266.33,
       "Y": 115.75,
       "Z": 939.65
     },
     {
-      "Name": "port-here-to-trigger-the-story-part-and-wait-until-finished",
+      "Name": "传送到这里触发剧情部分，等待完成",
       "X": -147.356,
       "Y": 125.3,
       "Z": 628.437
     },
     {
-      "Name": "port-here-to-trigger-story-part",
+      "Name": "传送到这里触发剧情部分",
       "X": -153.959,
       "Y": -48.9937,
       "Z": 626.919
     },
     {
-      "Name": "port-here-to-trigger-story-part",
+      "Name": "传送到这里触发剧情部分",
       "X": -72.0815,
       "Y": -71.2068,
       "Z": 874.522
     },
     {
-      "Name": "port-here-to-trigger-the-story-part",
+      "Name": "传送到这里触发剧情部分",
       "X": 71.313,
       "Y": 36.5686,
       "Z": 757.344
     },
     {
-      "Name": "port-here-and-speak-with-bennett-you-will-get-achievment-for-speaking-with-him",
+      "Name": "传送到这里与贝内特交谈，你会因为与他交谈而获得成就",
       "X": -265.432,
       "Y": 180.417,
       "Z": 622.841
     },
     {
-      "Name": "Talk-with-Almorra-to-complete-mission-and-get-achievment-[Blood-and-Stone]",
+      "Name": "与阿尔莫拉交谈以完成任务并获得成就[血石与岩石]",
       "X": -262.705,
       "Y": 115.396,
       "Z": 940.228
     },
     {
-      "Name": "Now-doing-Achievment-[Reaper-of-Magic]",
+      "Name": "现在做成就-[魔法收割机]",
       "X": -207.505,
       "Y": 162.879,
       "Z": 942.183
     },
     {
-      "Name": "Port-here-and-kill-the-target",
+      "Name": "传送到这里并击杀目标",
       "X": -5.34005,
       "Y": -64.6525,
       "Z": 681.029
     },
     {
-      "Name": "kill-target-if-other-one-was-failed",
+      "Name": "如果上一个失败了，击杀这个目标",
       "X": -343.781,
       "Y": 47.5948,
       "Z": 612.2
     },
     {
-      "Name": "talk-to-Bennet",
+      "Name": "与贝内特交谈",
       "X": -264.568,
       "Y": 175.483,
       "Z": 622.159
     },
     {
-      "Name": "port-here-to-start-next-achievment[A-Shadws-Deeds]&[The-Sky-is-Falling]INFO-Dont-get-hit-in-the-instance-by-falling-bloodstone-shards-or-their-explosions",
+      "Name": "传送到这里开始下一个成就[暗影契约]&[天塌地陷]信息-在副本中不要被掉落的血石碎片或其爆炸击中",
       "X": 51.3848,
       "Y": 63.2036,
       "Z": 144.903
     },
     {
-      "Name": "port-here-to-trigger-enemys",
+      "Name": "传送到这里触发敌人",
       "X": -37.3073,
       "Y": 67.5851,
       "Z": 137.882
     },
     {
-      "Name": "port-after-that-here",
+      "Name": "之后传送到这里",
       "X": -263.175,
       "Y": -5.97861,
       "Z": 95.0371
     },
     {
-      "Name": "now-wait-until-caith-has-spoken.....",
+      "Name": "现在等待凯西斯说完话.....",
       "X": -290.542,
       "Y": -12.0045,
       "Z": 93.9251
     },
     {
-      "Name": "now-port-here",
+      "Name": "现在传送到这里",
       "X": -321.331,
       "Y": -28.1423,
       "Z": 46.9982
     },
     {
-      "Name": "kill-the-swords-and-collect-the-Bloodstone-Shard",
+      "Name": "击杀剑并收集血石碎片",
       "X": -318.353,
       "Y": -24.2604,
       "Z": 46.5622
     },
     {
-      "Name": "port-here-killmobs-and-collect-then-the-Shard",
+      "Name": "传送到这里，击杀怪物，然后收集碎片",
       "X": -375.828,
       "Y": -38.6002,
       "Z": 51.4552
     },
     {
-      "Name": "now-port-here",
+      "Name": "现在传送到这里",
       "X": -317.136,
       "Y": -83.4866,
       "Z": 54.5728
     },
     {
-      "Name": "then-port-here-and-kill-the-mob-collect-after",
+      "Name": "然后传送到这里，击杀怪物，之后收集",
       "X": -351.417,
       "Y": -77.8881,
       "Z": 52.3316
     },
     {
-      "Name": "port-here",
+      "Name": "传送到这里",
       "X": -402.979,
       "Y": -54.9534,
       "Z": 53.3811
     },
     {
-      "Name": "collect",
+      "Name": "收集",
       "X": -398.097,
       "Y": -65.2008,
       "Z": 53.0711
     },
     {
-      "Name": "port-here",
+      "Name": "传送到这里",
       "X": -358.706,
       "Y": 14.8191,
       "Z": 50.6144
     },
     {
-      "Name": "kill-now",
+      "Name": "现在击杀",
       "X": -359.157,
       "Y": 12.2884,
       "Z": 50.3642
     },
     {
-      "Name": "port-here-and-wait",
+      "Name": "传送到这里并等待",
       "X": -280.451,
       "Y": -13.3103,
       "Z": 93.9197
     },
     {
-      "Name": "now-put-the-collected-things-in-there",
+      "Name": "现在把收集到的东西放进去",
       "X": -285.417,
       "Y": -10.6501,
       "Z": 93.9197
     },
     {
-      "Name": "port-here",
+      "Name": "传送到这里",
       "X": -178.696,
       "Y": 15.1728,
       "Z": 85.8669
     },
     {
-      "Name": "next-story-mission-ahead-[Achievment=Confessors-Stronghold]",
+      "Name": "下一个史诗纪实任务[成就=忏悔者要塞]",
       "X": -59.2656,
       "Y": 14.8578,
       "Z": 804.435
     },
     {
-      "Name": "talk-to-canach",
+      "Name": "与卡纳克交谈",
       "X": -42.2792,
       "Y": 15.4562,
       "Z": 806.467
     },
     {
-      "Name": "inhere-are-more-then-one-achievment-so-be-arawe",
+      "Name": "这里有不止一个成就，所以要注意",
       "X": -44.2033,
       "Y": 18.1426,
       "Z": 806.444
     },
     {
-      "Name": "after-you-survived-the-ambush-youcanstart-with-achievments",
+      "Name": "在伏击中幸存下来后，你可以开始做成就",
       "X": -52.2761,
       "Y": 14.0989,
       "Z": 805.213
     },
     {
-      "Name": "when-you-are-with-the-story-here-it-beginns",
+      "Name": "当你的故事进行到这里时，它就开始了",
       "X": -153.48,
       "Y": -25.4826,
       "Z": 815.74
     },
     {
-      "Name": "INFO-before-you-go-in-for-the-achievment[Bloodstone-Magic,Not-Even-Once]-you-have-to-stop-her-in-the-phases1/2/3-before-shes-completed-one-round-around-the-blood-stone-ive-you-succeded-you-get-achievment",
+      "Name": "信息-在你进入之前，为了获得成就[血石魔法，一次也别想]，你必须在第1/2/3阶段阻止她绕血石一圈。如果你成功了，你就会获得成就",
       "X": -154.033,
       "Y": -23.8143,
       "Z": 815.932
     },
     {
-      "Name": "port-here-to-go-on-with-story",
+      "Name": "传送到这里继续故事",
       "X": -96.8615,
       "Y": -8.01275,
       "Z": 823.334
     },
     {
-      "Name": "just-a-port-to-skip-the-way",
+      "Name": "只是一个传送点，可以跳过这段路",
       "X": -131.782,
       "Y": -63.2021,
       "Z": 858.182
     },
     {
-      "Name": "now-you-will-fight-against-caudecus-[Achievment-Confessors-Stronghold]&you-also-get-the-[Take-it-Down-a-Notch-Achievment-look-out-for-a-white-mantle-guy-who-is-cheering-and-kill-him-fast-to-get-achievment",
+      "Name": "现在你将对抗考迪克斯-[成就:忏悔者要塞]&你还会得到[收敛一点]成就-注意一个正在欢呼的白斗篷，快速击杀他以获得成就",
       "X": -110.043,
       "Y": -86.8477,
       "Z": 873.204
     },
     {
-      "Name": "talk-to-canach-and-you-completed-the-Chapter",
+      "Name": "与卡纳克交谈，你就完成了本章",
       "X": -33.6819,
       "Y": -62.2034,
       "Z": 884.877

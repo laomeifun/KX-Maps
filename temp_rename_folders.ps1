@@ -1,0 +1,6 @@
+Rename-Item -Path "Maps/收藏/愿景/愿景I：苏醒/Visions of Istan" -NewName "伊斯坦愿景"
+Rename-Item -Path "Maps/收藏/愿景/愿景I：苏醒/Visions of Sandswept Isles" -NewName "沙掠群岛愿景"
+Rename-Item -Path "Maps/收藏/愿景/愿景I：苏醒/Visions of Kourna" -NewName "克南愿景"
+Rename-Item -Path "Maps/收藏/愿景/愿景I：苏醒/Visions of Jahai" -NewName "亚哈愿景"
+Rename-Item -Path "Maps/收藏/愿景/愿景I：苏醒/Visions of Thunderhead Peaks" -NewName "雷云高峰愿景"
+Rename-Item -Path "Maps/收藏/愿景/愿景I：苏醒/Visions of Dragonfall" -NewName "坠龙之地愿景" 
