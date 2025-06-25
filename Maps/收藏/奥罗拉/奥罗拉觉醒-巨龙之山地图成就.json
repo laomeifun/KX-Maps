@@ -1,608 +1,608 @@
 {
-  "Name": "Aurora Awakening Draconis-Mons-Map- Achievements",
+  "Name": "奥罗拉觉醒-巨龙之山-地图成就",
   "Coordinates": [
     {
-      "Name": "Kill-The-Webby-Mother[Arachnogenesis-Achievment]",
+      "Name": "击败织网之母[蜘蛛屠戮成就]",
       "X": -157.091,
       "Y": 217.6533,
       "Z": 329.594
     },
     {
-      "Name": "Draconis-Mons-Insight:1",
+      "Name": "巨龙之山洞悉点:1",
       "X": -195.602,
       "Y": -75.8036,
       "Z": 61.6863
     },
     {
-      "Name": "Draconis-Mons-Insight:2",
+      "Name": "巨龙之山洞悉点:2",
       "X": 53.5671,
       "Y": 66.2654,
       "Z": 698.032
     },
     {
-      "Name": "Draconis-Mons-Insight:3",
+      "Name": "巨龙之山洞悉点:3",
       "X": 370.1,
       "Y": -933.98,
       "Z": 397.449
     },
     {
-      "Name": "For-Next-Achievment-You-will-Die-dont-go-out-you-get-achievment-after-you-died",
+      "Name": "下一个成就：你会死掉，不要离开，死后即可获得成就",
       "X": -468.377,
       "Y": -532.199,
       "Z": 3.60064
     },
     {
-      "Name": "[Exfoliating-Achievment]Swim-well",
+      "Name": "[沸腾之海的恐怖成就]游好",
       "X": -547.831,
       "Y": -389.745,
       "Z": -2.25531
     },
     {
-      "Name": "Next-Achievment-is[Hot-Splashes]Take-Googles[Extra-Info-when-youre-falling-down-go-to-next-coord-and-you-will-be-right-above-the-place-where-you-have-to-land",
+      "Name": "下一个成就是[激荡热浪]戴上护目镜[额外信息-当你坠落时，前往下一个坐标，你将正好在需要降落的地方上方]",
       "X": -28.8464,
       "Y": -319.778,
       "Z": 673.109
     },
     {
-      "Name": "-Now-land-good-or-dead[Hot-Splashes-completed]",
+      "Name": "-现在，要么好好降落，要么摔死[激荡热浪-完成]",
       "X": -52.2181,
       "Y": -303.859,
       "Z": 93.1718
     },
     {
-      "Name": "[Info-for-[Searing-Ascent]You-will-do-a-jumping-Puzzle-when-you-port-to-next-coord-Prepare-yourself!]",
+      "Name": "[灼热升腾成就信息]当你传送到下一个坐标时，你将进行一个跳跳乐，请做好准备！",
       "X": -459.283,
       "Y": -536.035,
       "Z": 4.97296
     },
     {
-      "Name": "DraconisMonsJP=Easy[Searing-Ascent-completed]",
+      "Name": "巨龙之山跳跳乐=简单[灼热升腾-完成]",
       "X": -541.124,
       "Y": -665.3575,
       "Z": 895.943
     },
     {
-      "Name": "Next-Achievment-will-be[Wurm-Slurper[Info-not-every-time-avaible-if-not-spawned-check-another-time]",
+      "Name": "下一个成就将是[噬蠕虫者][信息-并非所有时间都可用，如果没有刷新，请稍后再来查看]",
       "X": -466.37,
       "Y": -536.313,
       "Z": 4.41713
     },
     {
-      "Name": "Here-is-the-wurm",
+      "Name": "蠕虫在这里",
       "X": 292.154,
       "Y": -127.047,
       "Z": 530.09
     },
     {
-      "Name": "Next-Achievment-will-be[Burning-Down-The-House]Info-Use-The-il-and-use-the-coords-withpressing1-to-make-a-trail-of-ilto-the-fire-pit-and-get-achievment",
+      "Name": "下一个成就将是[付之一炬]信息-使用油，并按1使用坐标，制造一条通往火坑的油路以获得成就",
       "X": 382.434,
       "Y": -184.167,
       "Z": 477.061
     },
     {
-      "Name": "Pick-Up-ilk",
+      "Name": "拾取油",
       "X": 409.404,
       "Y": -241.009,
       "Z": 515.094
     },
     {
-      "Name": "First-Trail",
+      "Name": "第一段油路",
       "X": 418.722,
       "Y": -241.401,
       "Z": 514.864
     },
     {
-      "Name": "second-Trail",
+      "Name": "第二段油路",
       "X": 418.109,
       "Y": -249.92,
       "Z": 513.491
     },
     {
-      "Name": "3-Trail",
+      "Name": "第三段油路",
       "X": 414.143,
       "Y": -256.564,
       "Z": 513.39
     },
     {
-      "Name": "4-Trail",
+      "Name": "第四段油路",
       "X": 408.764,
       "Y": -261.849,
       "Z": 512.313
     },
     {
-      "Name": "5-Trail",
+      "Name": "第五段油路",
       "X": 404.1,
       "Y": -266.696,
       "Z": 512.514
     },
     {
-      "Name": "6-Trail",
+      "Name": "第六段油路",
       "X": 404.772,
       "Y": -272.414,
       "Z": 512.885
     },
     {
-      "Name": "7-Trail",
+      "Name": "第七段油路",
       "X": 406.62,
       "Y": -279.507,
       "Z": 513.115
     },
     {
-      "Name": "8-Trail[And-get-Achievment]",
+      "Name": "第八段油路[并获得成就]",
       "X": 408.747,
       "Y": -286.206,
       "Z": 513.118
     },
     {
-      "Name": "Next-Achievments-will-be[Crypt-Keeper&Golemancers-Treasure]Info-for-the-second-achievment-you-will-have-to-kill-the-champion-which-is-protecting-the-treasure",
+      "Name": "下一个成就将是[地穴守护者&魔像师的宝藏]信息-对于第二个成就，你将需要杀死保护宝藏的勇士",
       "X": 504.044,
       "Y": -382.615,
       "Z": 505.4
     },
     {
-      "Name": "Port-here",
+      "Name": "传送到这里",
       "X": -323.489,
       "Y": -996.632,
       "Z": 472.64
     },
     {
-      "Name": "now-port-here-and-kill-champion-after-that-go-get-the-treasure",
+      "Name": "现在传送到这里，杀死勇士，然后去拿宝藏",
       "X": -265.095,
       "Y": -741.729,
       "Z": 488.131
     },
     {
-      "Name": "Treasure-is-up-here",
+      "Name": "宝藏在这里上面",
       "X": -225.953,
       "Y": -715.77,
       "Z": 501.563
     },
     {
-      "Name": "Port-here-to-get[Crypt-Keeper]",
+      "Name": "传送到这里以获得[地穴守护者]",
       "X": -449.261,
       "Y": -669.514,
       "Z": 527.863
     },
     {
-      "Name": "Now-doing[Expensive-Taste]Kill-Champion-Emperor-Mattake-to-get-achievment-when-hes-not-there-come-back-later",
+      "Name": "现在做[昂贵的品味]杀死勇士蘑菇皇帝以获得成就，如果他不在，请稍后再来",
       "X": 3.77266,
       "Y": 142.148,
       "Z": 314.355
     },
     {
-      "Name": "Look-if-Mattake-is-her-if-not-then-do-something-else",
+      "Name": "看看蘑菇皇帝是否在这里，如果不在，就去做别的事情",
       "X": 139.281,
       "Y": 197.886,
       "Z": 272.756
     },
     {
-      "Name": "Next-Achievment[Natures-Wrahth]You-have-to-kill-Greater-Wardbough/If-there-is-no-event-in-front-of-you-go-some-where-else-and-come-back-later",
+      "Name": "下一个成就[自然之怒]你必须杀死高级守卫者/如果面前没有事件，请去别的地方，稍后再回来",
       "X": 9.38597,
       "Y": -1274.04,
       "Z": 170.294
     },
     {
-      "Name": "The-Next-50-Cords-are-for-THe-Heart-Quests-complete-them-all-and-buy-the-Items-these-are-the-needed-items[Scouting-Party-Supporter][Fiery-Liberator][Enemy-of-the-Inquest]&[Friend-of-Golems]",
+      "Name": "接下来的50个坐标是爱心任务，全部完成并购买这些所需物品[斥候队支援者][炽热解放者][审讯团之敌]&[魔像之友]",
       "X": -436.863,
       "Y": -506.857,
       "Z": 1.02888
     },
     {
-      "Name": "Shroom&kill",
+      "Name": "蘑菇&杀戮",
       "X": -78.2514,
       "Y": 68.9827,
       "Z": 308.803
     },
     {
-      "Name": "Shroom&Kill",
+      "Name": "蘑菇&杀戮",
       "X": -170.387,
       "Y": 118.153,
       "Z": 310.65
     },
     {
-      "Name": "Shroom&Kill",
+      "Name": "蘑菇&杀戮",
       "X": -177.307,
       "Y": 146.114,
       "Z": 311.462
     },
     {
-      "Name": "Kill-the-5-Spiders",
+      "Name": "杀死5只蜘蛛",
       "X": -243.583,
       "Y": 200.705,
       "Z": 303.082
     },
     {
-      "Name": "Shroom&Kill",
+      "Name": "蘑菇&杀戮",
       "X": -250.372,
       "Y": 179.642,
       "Z": 302.737
     },
     {
-      "Name": "Shroom&Kill",
+      "Name": "蘑菇&杀戮",
       "X": -227.249,
       "Y": 93.4672,
       "Z": 292.516
     },
     {
-      "Name": "Shroom&Kill",
+      "Name": "蘑菇&杀戮",
       "X": -137.664,
       "Y": 62.6167,
       "Z": 310.074
     },
     {
-      "Name": "Killspiders",
+      "Name": "杀死蜘蛛",
       "X": -133.804,
       "Y": 52.0502,
       "Z": 310.337
     },
     {
-      "Name": "kIll-5-spiders-Heart-completed",
+      "Name": "杀死5只蜘蛛-爱心任务完成",
       "X": -213.416,
       "Y": 9.67373,
       "Z": 309.656
     },
     {
-      "Name": "[Buy-the-Friend-Of-Golems-Item]-from-Z.o.x]",
+      "Name": "[从Z.o.x.处购买[魔像之友]物品]",
       "X": -82.4398,
       "Y": 126.712,
       "Z": 313.127
     },
     {
-      "Name": "Recorder-if-not-there-use-the-extra-slots-which-are-comming-later",
+      "Name": "记录器-如果不存在，请使用稍后出现的额外插槽",
       "X": -399.508,
       "Y": -368.207,
       "Z": 510.041
     },
     {
-      "Name": "Recorder-if-not-there-use-the-extra-slots-which-are-comming-later",
+      "Name": "记录器-如果不存在，请使用稍后出现的额外插槽",
       "X": -331.219,
       "Y": -397.296,
       "Z": 510.188
     },
     {
-      "Name": "Kill-4-Inquest",
+      "Name": "杀死4个审讯团成员",
       "X": -320.931,
       "Y": -426.932,
       "Z": 510.219
     },
     {
-      "Name": "Kill-2-Inquest",
+      "Name": "杀死2个审讯团成员",
       "X": -330.487,
       "Y": -462.841,
       "Z": 514.709
     },
     {
-      "Name": "Kill-3-Inquest",
+      "Name": "杀死3个审讯团成员",
       "X": -344.117,
       "Y": -481.627,
       "Z": 530.107
     },
     {
-      "Name": "Kill-Inquest",
+      "Name": "杀死审讯团成员",
       "X": -372.686,
       "Y": -440.351,
       "Z": 531.693
     },
     {
-      "Name": "Kill-3-Inquest",
+      "Name": "杀死3个审讯团成员",
       "X": -400.25,
       "Y": -385.568,
       "Z": 510.135
     },
     {
-      "Name": "Kill-4-Inquest",
+      "Name": "杀死4个审讯团成员",
       "X": -473.017,
       "Y": -340.373,
       "Z": 539.408
     },
     {
-      "Name": "Kill-Inquest-Heart-completed",
+      "Name": "杀死审讯团成员-爱心任务完成",
       "X": -366.126,
       "Y": -326.043,
       "Z": 523.46
     },
     {
-      "Name": "Kill-Inquest-Extra-Spot",
+      "Name": "杀死审讯团成员-额外地点",
       "X": -357.972,
       "Y": -347.07,
       "Z": 520.081
     },
     {
-      "Name": "Extra-Inquest",
+      "Name": "额外审讯团成员",
       "X": -448.419,
       "Y": -383.901,
       "Z": 572.091
     },
     {
-      "Name": "Extra-Inquest",
+      "Name": "额外审讯团成员",
       "X": -477.727,
       "Y": -378.703,
       "Z": 573.869
     },
     {
-      "Name": "Extra-Inquest",
+      "Name": "额外审讯团成员",
       "X": -490.2,
       "Y": -404.405,
       "Z": 570.952
     },
     {
-      "Name": "Get-The[Enemy-of-the-Inquest-Item]-from-MarkI-Golemite",
+      "Name": "从Mark I Golemite处获取[审讯团之敌-物品]",
       "X": -393.689,
       "Y": -259.757,
       "Z": 539.674
     },
     {
-      "Name": "Shrub&Kill",
+      "Name": "灌木&杀戮",
       "X": -112.358,
       "Y": -867.555,
       "Z": 203.357
     },
     {
-      "Name": "Shrub&Kill",
+      "Name": "灌木&杀戮",
       "X": -106.404,
       "Y": -824.689,
       "Z": 201.645
     },
     {
-      "Name": "Rescue",
+      "Name": "救援",
       "X": -102.843,
       "Y": -786.749,
       "Z": 196.699
     },
     {
-      "Name": "Shrub&Kill",
+      "Name": "灌木&杀戮",
       "X": -68.5129,
       "Y": -712.354,
       "Z": 208.107
     },
     {
-      "Name": "Rescue",
+      "Name": "救援",
       "X": -59.1645,
       "Y": -760.902,
       "Z": 207.656
     },
     {
-      "Name": "Shrub&Kill",
+      "Name": "灌木&杀戮",
       "X": -16.2085,
       "Y": -776.678,
       "Z": 204.647
     },
     {
-      "Name": "Rescue",
+      "Name": "救援",
       "X": -45.5931,
       "Y": -820.53,
       "Z": 198.086
     },
     {
-      "Name": "Shrub&Kill",
+      "Name": "灌木&杀戮",
       "X": -4.87336,
       "Y": -875.735,
       "Z": 187.552
     },
     {
-      "Name": "Shrub&Kill",
+      "Name": "灌木&杀戮",
       "X": 29.4066,
       "Y": -832.947,
       "Z": 191.729
     },
     {
-      "Name": "Shrub&Kill",
+      "Name": "灌木&杀戮",
       "X": -105.046,
       "Y": -823.782,
       "Z": 201.558
     },
     {
-      "Name": "Shrub&Kill-Heart-completed",
+      "Name": "灌木&杀戮-爱心任务完成",
       "X": -112.321,
       "Y": -865.371,
       "Z": 203.493
     },
     {
-      "Name": "Buy-Item[Scouting-Party-Supporter]",
+      "Name": "购买物品[斥候队支援者]",
       "X": -68.002,
       "Y": -892.041,
       "Z": 196.221
     },
     {
-      "Name": "Take-Oil",
+      "Name": "取油",
       "X": 409.47,
       "Y": -240.464,
       "Z": 515.034
     },
     {
-      "Name": "make-aline-to-fire",
+      "Name": "向火堆画一条线",
       "X": 420.697,
       "Y": -240.126,
       "Z": 514.826
     },
     {
-      "Name": "Next",
+      "Name": "下一个",
       "X": 418.425,
       "Y": -253.612,
       "Z": 513.56
     },
     {
-      "Name": "next",
+      "Name": "下一个",
       "X": 419.278,
       "Y": -248.932,
       "Z": 513.537
     },
     {
-      "Name": "next",
+      "Name": "下一个",
       "X": 416.716,
       "Y": -258.534,
       "Z": 513.744
     },
     {
-      "Name": "next",
+      "Name": "下一个",
       "X": 414.783,
       "Y": -264.084,
       "Z": 515.091
     },
     {
-      "Name": "next",
+      "Name": "下一个",
       "X": 413.265,
       "Y": -272.763,
       "Z": 514.264
     },
     {
-      "Name": "next",
+      "Name": "下一个",
       "X": 411.903,
       "Y": -280.23,
       "Z": 512.828
     },
     {
-      "Name": "Next",
+      "Name": "下一个",
       "X": 419.756,
       "Y": -243.41,
       "Z": 513.576
     },
     {
-      "Name": "Next",
+      "Name": "下一个",
       "X": 410.8,
       "Y": -286.666,
       "Z": 512.943
     },
     {
-      "Name": "Destroy-Gate-if-there",
+      "Name": "如果门在，就摧毁它",
       "X": 407.673,
       "Y": -177.896,
       "Z": 512.776
     },
     {
-      "Name": "Free-Prisoner",
+      "Name": "释放囚犯",
       "X": 388.383,
       "Y": -167.391,
       "Z": 514.335
     },
     {
-      "Name": "Free-prisoner",
+      "Name": "释放囚犯",
       "X": 383.128,
       "Y": -140.036,
       "Z": 512.74
     },
     {
-      "Name": "kill-all-7-enemys-in-here",
+      "Name": "杀死这里所有的7个敌人",
       "X": 397.419,
       "Y": -134.679,
       "Z": 511.187
     },
     {
-      "Name": "Free-Prisoner",
+      "Name": "释放囚犯",
       "X": 415.055,
       "Y": -121.653,
       "Z": 510.178
     },
     {
-      "Name": "Free-Prisoner",
+      "Name": "释放囚犯",
       "X": 420.921,
       "Y": -133.069,
       "Z": 510.548
     },
     {
-      "Name": "Free-Prisoner",
+      "Name": "释放囚犯",
       "X": 416.852,
       "Y": -147.681,
       "Z": 509.854
     },
     {
-      "Name": "Kill-2-Enemys",
+      "Name": "杀死2个敌人",
       "X": 369.178,
       "Y": -94.005,
       "Z": 513.157
     },
     {
-      "Name": "Kill-2-Enemys",
+      "Name": "杀死2个敌人",
       "X": 326.695,
       "Y": 16.0805,
       "Z": 504.28
     },
     {
-      "Name": "Kill-2-Enemys",
+      "Name": "杀死2个敌人",
       "X": 360.151,
       "Y": 4.70855,
       "Z": 510.276
     },
     {
-      "Name": "Kill-2-Enemys",
+      "Name": "杀死2个敌人",
       "X": 446.523,
       "Y": -83.3638,
       "Z": 508.178
     },
     {
-      "Name": "Kill-Sniper-Heart-completed",
+      "Name": "杀死狙击手-爱心任务完成",
       "X": 311.017,
       "Y": 15.9177,
       "Z": 526.392
     },
     {
-      "Name": "Kill-2-Enemys-Extra-Spot",
+      "Name": "杀死2个敌人-额外地点",
       "X": 384.552,
       "Y": 6.3742,
       "Z": 547.605
     },
     {
-      "Name": "Extra-Enemy",
+      "Name": "额外敌人",
       "X": 338.119,
       "Y": 26.9126,
       "Z": 542.323
     },
     {
-      "Name": "Extra-Enemys&Prisoner-Heart-completed-after",
+      "Name": "额外敌人和囚犯-之后爱心任务完成",
       "X": 346.097,
       "Y": 81.2812,
       "Z": 524.378
     },
     {
-      "Name": "Buy-item[Fiery-Liberator]-from-Arissea",
+      "Name": "从Arissea处购买物品[炽热解放者]",
       "X": 538.443,
       "Y": -336.363,
       "Z": 509.272
     },
     {
-      "Name": "For-the-next-Achievment0Buy-Ancient-Asuran-Power-Source-and-use-it-once",
+      "Name": "为了下一个成就，购买远古阿苏拉能量源并使用一次",
       "X": -86.3661,
       "Y": 125.055,
       "Z": 313.281
     },
     {
-      "Name": "port-here-and-use-the-special-key-one-more-time-to-uncover-the-stash-and-get-the-needed-item",
+      "Name": "传送到这里，再次使用特殊钥匙揭开储藏点并获得所需物品",
       "X": -72.2502,
       "Y": 101.44,
       "Z": 535.638
     },
     {
-      "Name": "THe-Next-2-Achievments-are-The-2-Enbosses-from-the-Meta[Ignis&Aestus]-you-will-complete-multiple-achievments-when-not-spawned-just-come-back-later-and-do-something-else-in-the-meantime",
+      "Name": "接下来的2个成就是大型事件的2个终极Boss[伊格尼斯&埃斯图斯]-你将在击败他们时完成多个成就-如果他们没有刷新，请稍后再回来，在此期间做些别的事情",
       "X": -466.302,
       "Y": -535.915,
       "Z": 4.37666
     },
     {
-      "Name": "You-get-the-following-Achievments-by-killing-them[Ignis-Heart&Aestus-Heart]For-them-You-need-to-kill-both!/make-sure-to-do-the-next-2-ports-only-when-you-are-in-the-druid-stone-collection-at-the4th-collection[thelastone]so-you-get-all4-items-by-killing-them-only-once!-or-you-have-to-do-it-multiple-times[youget-in-total-4-items-from-them-the-2-meantionend-items-and-in-druid-stone-colelction4-these-2-items[Element-of-Aestus&Element-of-Ignis]",
+      "Name": "击败他们可以获得以下成就[伊格尼斯之心&埃斯图斯之心]为了这些，你需要杀死他们两个！/确保只在德鲁伊之石收藏的第四个收藏[最后一个]中进行接下来的两次传送，这样你只需杀死他们一次就能获得所有4个物品！否则你将不得不多次进行[你总共会从他们那里获得4个物品，提到的2个物品和德鲁伊之石收藏4中的这两个物品[埃斯图斯元素&伊格尼斯元素]]",
       "X": -466.302,
       "Y": -535.915,
       "Z": 4.37666
     },
     {
-      "Name": "Ignis-spawn-area",
+      "Name": "伊格尼斯刷新区域",
       "X": -521.363,
       "Y": -14.9616,
       "Z": 64.7134
     },
     {
-      "Name": "Aestus-Spawn-Area",
+      "Name": "埃斯图斯刷新区域",
       "X": 379.157,
       "Y": -188.8,
       "Z": 40.3942
     },
     {
-      "Name": "Kill-The-Champion-Power-Suit-Mark-II-to-get-achievment[Powerless-Suit]-if-not-active--come-back-later",
+      "Name": "击败勇士动力套装Mark II以获得成就[无力战甲]-如果未激活-请稍后再来",
       "X": -559.432,
       "Y": -440.033,
       "Z": 566.959
     },
     {
-      "Name": "Kill-Champion-Stonehead-King-around-here-for-Achievment[Dinosaur-King-Ascension]",
+      "Name": "在这里附近击败勇士石头脑袋王以获得成就[恐龙王升天]",
       "X": 591.372,
       "Y": -497.389,
       "Z": 265.725
