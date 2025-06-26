@@ -1,32 +1,32 @@
 {
-  "Name": "Visions-of-Istan",
+  "Name": "伊斯坦诸愿景",
   "Coordinates": [
     {
-      "Name": "Vision-of-Allies:Taimi",
+      "Name": "盟友愿景：泰蜜",
       "X": 463.668,
       "Y": 527.461,
       "Z": 1.55163
     },
     {
-      "Name": "Buy-1-Memory-Essence-Encapsulator",
+      "Name": "购买1个记忆精华封装体",
       "X": 461.099,
       "Y": 531.057,
       "Z": 1.55053
     },
     {
-      "Name": "Kill-Warden-Amala-while-you-have-the-Memory-Essence-for[Vision-of-Enemies:Warden-Amala]",
+      "Name": "敌人愿景：典狱长阿玛拉 - 携带记忆精华封装体击杀",
       "X": -170.102,
       "Y": 388.634,
       "Z": 76.8995
     },
     {
-      "Name": "port-here-and-get-on-youre-skyscale-then-fly-a-little-bit-up-and-port-to-next-port",
+      "Name": "景观愿景：伊斯坦领域 - 传送至此，骑上飞天鳞龙飞高一点，然后传送至下个点",
       "X": -1002.18,
       "Y": 786.703,
       "Z": 234.566
     },
     {
-      "Name": "then-port-here-and-wait-until-you-can-start-the-fly-part-all-globs-are-portable-so-click-through",
+      "Name": "然后传送至此，等待开始飞行。所有的光球都可以传送，依次点击即可",
       "X": -999.03,
       "Y": 799.154,
       "Z": 266.891
@@ -446,37 +446,37 @@
       "Z": 223.634
     },
     {
-      "Name": "next-is-Vision-of-Action:domain-of-istan[next-3-poorts-will-bring-you-to-the-start-locations-of-the-3-events-you-need-only-one-of-it!-to-get-the-Needed-Achievment[]",
+      "Name": "下一个是行动愿景：伊斯坦领域【接下来的3个传送点会将你带到3个事件的起始位置，你只需要完成其中一个即可获得成就】",
       "X": -1011.59,
       "Y": 764.34,
       "Z": 213.766
     },
     {
-      "Name": "Intercept-the-corpse-caravan-departing-from-the-Astralarium",
+      "Name": "拦截从占星台出发的尸体车队",
       "X": -787.982,
       "Y": 625.417,
       "Z": 98.9684
     },
     {
-      "Name": "Next-caravan-will-spawn-in-this-area",
+      "Name": "下一个车队会在此区域刷新",
       "X": -725.34,
       "Y": -220.445,
       "Z": 89.4704
     },
     {
-      "Name": "last-caravan-will-spawn-around-this-area",
+      "Name": "最后一个车队会在此区域附近刷新",
       "X": 486.634,
       "Y": 327.753,
       "Z": 69.4523
     },
     {
-      "Name": "now-port-here-and-get-on-youre-skyscale-then-fly-in-the-air-and-port-next",
+      "Name": "现在传送到这里，骑上飞天鳞龙飞到空中，然后传送到下一个点",
       "X": -158.819,
       "Y": 347.256,
       "Z": 131.695
     },
     {
-      "Name": "Port-here-for-Vision-of-Dragons:aurene[Memory-Crystal]",
+      "Name": "巨龙愿景：欧茹恩 - 传送到这里找记忆水晶",
       "X": -160.174,
       "Y": 262.304,
       "Z": 141.276
